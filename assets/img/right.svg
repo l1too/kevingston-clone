@@ -1,0 +1,11 @@
+<svg version="1.1" id="flecha" xmlns:x="&amp;ns_extend;" xmlns:i="&amp;ns_ai;"
+                    xmlns:graph="&amp;ns_graphs;" xmlns="http://www.w3.org/2000/svg"
+                    xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 49.6 49.6"
+                    style="enable-background:new 0 0 49.6 49.6;" xml:space="preserve">
+                    <style type="text/css">
+                        .flechaSliderC {
+                            opacity: 0.25;
+                        }
+                    </style>
+                    <polygon points="20.5,13.1 19.1,14.5 29.4,24.3 19.1,34.1 20.5,35.5 32.3,24.3 "></polygon>
+                </svg>
